@@ -1,7 +1,7 @@
 // thank you for reading me :)
 
 GitHub Repository:
-https://github.com/ultimateichor/MemoryManagement/
+https://github.com/ultimateichor/-NoLib-ResourceManagement_IsaiahC
 
 Run instructions:
 
